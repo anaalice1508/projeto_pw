@@ -1,15 +1,17 @@
 # Nome do Seu Projeto
 
-## Autora:
-Ana Alice Ferreira da Silva 
+## Autores
+* Ana Alice Ferreira da Silva
 
 ## Link do Projeto
 
 ## Tema e Ideia do Projeto
-Tema:
-Ideia:
+* **Tema:**
+* **Ideia:** 
 
 ## APIs a Usar
+* 
+* 
 
-## APIs a desenvolver:
-Nenhuma API a ser desevolvida neste projeto.
+## APIs a Desenvolver
+* 

@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# Conversor de unidades científico e económico 
 
 ## Autores
 * Ana Alice Ferreira da Silva
